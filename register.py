@@ -1,1 +1,1 @@
-def reg_party
+def reg_party ('Eff')
